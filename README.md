@@ -116,7 +116,7 @@ dist/
 
 ## Contexto Académico
 
-Este proyecto fue desarrollado como parte de un proceso de formación en Ingeniería de Software, aplicando conceptos relacionados con diseño de interfaces, desarrollo frontend moderno, organización de componentes reutilizables y gestión de proyectos de software.
+Este proyecto fue desarrollado como parte de un proceso de formación en Tec. en construccion de Software, aplicando conceptos relacionados con diseño de interfaces, desarrollo frontend moderno, organización de componentes reutilizables y gestión de proyectos de software.
 
 ---
 
